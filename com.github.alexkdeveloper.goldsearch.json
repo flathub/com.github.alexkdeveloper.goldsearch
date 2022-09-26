@@ -31,8 +31,8 @@
               {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/goldsearch.git",
-                    "tag": "1.0.3",
-                    "commit": "f6313ca541569d681005347e86d8589e0bfdaa82"
+                    "tag": "1.0.4",
+                    "commit": "7d6f96181d72bc255968619916fa47acf3b76ec6"
               }
           ]
         }
