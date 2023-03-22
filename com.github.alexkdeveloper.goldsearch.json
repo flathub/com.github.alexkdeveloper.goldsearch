@@ -1,7 +1,7 @@
 {
     "app-id": "com.github.alexkdeveloper.goldsearch",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "43",
+    "runtime-version": "44",
     "sdk": "org.gnome.Sdk",
     "command": "com.github.alexkdeveloper.goldsearch",
     "finish-args": [
@@ -31,7 +31,7 @@
               {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/goldsearch.git",
-                    "tag": "1.0.8"
+                    "tag": "1.0.9"
               }
           ]
         }
